@@ -4,9 +4,9 @@
 
 -Bahasa Indo
 
-![img 1] (bhsindo.gif)
+![img 1](bhsindo.gif)
 
 
 -bahasa Inggris
 
-![img 2]] (bhs_inggris)
+![img 2](bhs_inggris)
