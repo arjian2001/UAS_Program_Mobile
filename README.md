@@ -8,4 +8,4 @@
 
 
 -bahasa Inggris
-![img 2](bhs_inggris)
+![img 2](bhs_inggris.gif)
